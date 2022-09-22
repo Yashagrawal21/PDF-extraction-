@@ -1,0 +1,162 @@
+BORDERborderborder-widthborder-styleborder-colorborder-bottomborder-bottom-widthborder-styleborder-colorborder-leftborder-left-widthborder-styleborder-colorborder-rightborder-right-widthborder-styleborder-colorborder-left-styleborder-styleborder-widthborder-stylecolorcloseborder-breakborder-colorborder-bottom-colorborder-colorborder-left-colorthin | medium | thick lengthborder-left-widthborder-styleborder-right-styleborder-top-width
+border-styleborder-colorborder-topinset || [ length, length, length, length || <color> ]nonebox-shadowborder-styleborder-bottom-styleborder-colorborder-top-colorborder-styleborder-top-stylenone | hidden | dotted |dashed | solid | double |groove | ridge | inset | outsetborder-styleborder-colorborder-right-colorthin | medium | thick | lengthborder-right-widththin | medium | thick | lengthborder-top-widththin | medium | thick | lengthborder-widthbackground-colorcolortransparentborder-collapsecollapse | separateborder-colorcolorborder-top-right-radiuslengthborder-bottom-right-radiuslengthborder-bottom-left-radiuslengthborder-imageimage
+[ number / %border-widthstretch | repeat | round ]noneborder-radiusborder-radiusborder-top-right-radiusborder-bottom-right-radiusborder-bottom-left-radiusborder-top-left-radiusmin-heightnonelength%max-widthnonelength%BOX MODEL˜oatleft | right | nonemin-widthnone | inheritlength%marquee-directionforward | reversemarquee-loopin˜niteintegermarquee-play-countin˜nite
+integerauto
+length%heightslow | normal | fastmarquee-speedscroll | slide | alternatemarquee-styleauto | marquee-line | marquee-blockover˜ow-stylevisible | hidden | scroll |auto | no-display | no-contentover˜ow-xvisible | hidden | scroll |
+auto | no-display | no-contentover˜ow-xvisible | hidden | scroll |
+auto | no-display | no-contentover˚ow-xover˚ow-yover˜owlength
+%padding-bottomlength
+%padding-leftlength
+%padding-rightanglerotationposition (paired value off-set)rotation-pointvisible | hidden | collapsevisibilitylength
+%padding-topmax-heightnone
+length%margin-topmargin-rightmargin-bottommargin-leftmarginmargin-bottomauto
+length%none | inline | block | inline-block |list-item |run-in | compact | table | inline-table | table-row-group |table-header-group | table-footer-group | table-row |table-column-group | table-column | table-cell | table-caption | ruby | ruby-base | ruby-text | ruby-base-group | ruby-text-groupdisplayclearleft | right | both | nonemargin-leftautoheight%margin-rightautoheight%margin-topautolength%padding-toppadding-rightpadding-bottompadding-leftpaddingwidthauto
+%lengthFONT
+fontfont-stylefont-variantfont-weightfont-size/line-heightfont-familycaption | icon | menu | message-box | small-caption | status-barfont-weightnormal | bold | bolder | lighter |
+100 | 200 | 300 | 400 | 500 | 600 |
+700 | 800 | 900 | inheritfont-sizexx-small | x-small | small | medium |
+large | x-large | xx-large | smaller | 
+larger |inheritlength%font-familynormal | wider | narrower |ultra-condensed | extra-condensed | 
+condensed | semi-condensed | semi-expanded | ultra-expanded | inheritfont-stylenormal | italic | oblique | inheritfont-variantnormal | small-caps | inheritfont-size-adjustnone | inheritnumberTEXTdirectionltr | rtl | inherittext-indentlength
+%text-wrapnormal | unresrricted | none | suppressword-spacingnormallength%text-justifyauto | inter-word | inter-ideograph | inter-cluster | distribute | kashida | 
+tibetantext-emphasisnone | [ [ accent | dot | circle | disc | [ 
+before | after ]?]punctuation-trimnone | [ start | end | adjacent ]text-alignstart | end | left | right | center | justifytext-align-laststart | end | left | right | center | justifytext-shadownonecolorlengthtext-transformnone | capitalize | uppercase | lowercasetext-decorationnone | underline | overline | 
+line-thorugh | blinkhanging-punctuationnone | [ start | end | end-edge ]letter spacingnormallength%text-outlinenonecolorlengthunicode-bidinormal | embed | bidi-overridewhite-spacenormal | pre | nowrap | pre-wrap | pre-lineword-breaknormal | keep-all | loose | break-strict | break-allword-wrapnormallength%white-space-collapseperserve | collapse | pre-serve-breaks | discardCOLORS
+colorinheritcoloropacityinherit
+numberTABLE
+border-collapsecollapse | separatecaption-sidetop | bottom | left | rightborder-spacinglength lengthempty-cellsshow | hidetable-layoutauto | ˜xedTEMPLATE LAYOUT
+box-alignstart | end | center | basebox-directionnormal | reversebox-˜exnormalbox-packstart | end | center | justifybox-sizingcontent-box | padding-box | border-box | margin-boxtab-sidetop | bottom | left | rightbox-˜ex-groupintegerbox-linessingle | multiplebox-orienthorizontal | verticle | inline-axis | 
+block-axisCOLUMNcolumn-countautonumbercolumn-gapnormal
+lengthcolumn-˚llauto | balancecolumn-span1 | allcolumn-widthauto
+lengthcolumnscolumn-width
+column-countcolumn-rulecolumn-rule-width
+column-rule-stylecolumn-rule-colorcolumn-rule-styleborder-stylecolumn-rule-widththin | medium | thicklengthGRID POSTIONING
+grid-columnsnone | inherit
+[ length percentage relative length ]grid-rowsnone | inherit
+[ length percentage relative length ]SPEECH
+cuecue-beforecue-aftermarkmark-before
+mark-aftermark-beforestringmark-afterstringcue-beforeurl [ silent | x-soft | soft | medium | loud | x-loud | none | inherit ]number%caption-sidetop | bottom | left | rightrestrest-before
+rest-afterrest-beforenone | x-weak | weak | medium | strong | x-strong | inherittimerest-afternone | x-weak | weak | medium | strong | x-strong | inherittimespeaknone | normal | spell-out | digits | literal-punctuation | no-punctuation | 
+inherit-numberpausepause-beforepause-afterphonemesstringvoice-durationtimevoice-familyinherit | [ <speci˜c-voice, age, generic-voice, number> ]voice-ratex-slow | slow | medium | fast | x-fast | inherit%voice-pitchx-low | low | medium | high | x-high | inherit
+number%voice-pitch-rangex-low | low | medium | high | x-high | inheritnumbervoice-stressstrong | moderate | none | reduced | inheritvoice-volumesilent | x-soft | soft | medium | loud | x-loud | inheritnumber%pause-beforenone | x-weak | weak | medium | strong | x-strong | inherittimecue-afterurl [ silent | x-soft | soft | medium | loud | x-loud | none | inherit ]number%SPEECH
+cuecue-beforecue-aftermarkmark-before
+mark-aftermark-beforestringmark-afterstringcue-beforeurl [ silent | x-soft | soft | medium | loud | x-loud | none | inherit ]number
+%caption-sidetop | bottom | left | rightrestrest-before
+rest-afterrest-beforenone | x-weak | weak | medium | strong | x-strong | inherittimerest-afternone | x-weak | weak | medium | strong | x-strong | inherittimespeaknone | normal | spell-out | digits | literal-punctuation | no-punctuation | inherit-numberpausepause-beforepause-afterphonemesstringvoice-durationtimevoice-familyinherit | [ <speci˜c-voice, age, generic-voice, number> ]voice-ratex-slow | slow | medium | fast | x-fast | inherit%voice-pitchx-low | low | medium | high | x-high | inherit
+number
+%voice-pitch-rangex-low | low | medium | high | x-high | inherit
+numbervoice-stressstrong | moderate | none | reduced | inheritvoice-volumesilent | x-soft | soft | medium | loud | x-loud | inheritnumber
+%pause-beforenone | x-weak | weak | medium | strong | x-strong | inherittimecue-afterurl [ silent | x-soft | soft | medium | loud | x-loud | none | inherit ]number
+%LIST & MARKERS
+list-stylelist-style-typelist-style-positionlist-style-imagelist-style-typenone | asterisks | box | check | circle | diamond | disc | hyphen | square | decimal | decimal-leading-zero |
+lower-roman | upper-roman | 
+lower-alpha | upper-alpha |lower-greek | lower-latin | upper-latin | hebrew | armenian | georgian | 
+cjk-ideographic | hiragana | katakana | 
+hiragana-iroha | katakana-iroha | footnoteslist-style-imagenoneurlmarker-offsetauto
+lengthANIMATIONS
+animationsanimation-name
+animation-durationanimation-timing-functionanimation-delayanimation-iteration-countanimation-directionanimation-timing-functionease | linear | ease-in | ease-out |ease-in-out | cubic-Bezier (number, number, number, number)animation-directionnormal | alternateanimation-play-staterunning | pausedanimation-iteration-countinheritnumberanimation-delaytimeanimation-delaytimeanimation-namenone | IDENTTRANSITIONS
+transitionstransitions-property
+transitions-durationtransitions-timing-functiontransitions-delaytransition-timing-functionease | linear | ease-in | ease-out |ease-in-out | cubic-Bezier ( number, number, number, number)transitions-delaytimetransitions-durationtimetransitions-propertynone | allUIappearancenormal | inherit | [icon |window | desktop | work-space | document | tooltip | dialog | button | push-button |hyperlink | radio-button | checkbox | menu-item | tab | menu | menubar | pull-down-menu |
+pop-up-menu | list-menu | radio-group | checkbox-group | outline-tree | range | ˜eld | combo-box | signature | password]cursorauto | crosshair | default |pointer | move | e-resize |ne-resize | nw-resize | n-resize |se-resize | sw-resize | sw-resize |s-resize | w-resize | text | wait | helpurlnav-indexauto | inherit
+numbernav-upauto | inherit<id> [current | root |<target-name> ]nav-rightauto | inherit<id> [ current | root |<target-name> ]nav-downauto | inherit<id> [ current | root |<target-name> ]nav-leftauto | inherit<id> [ current | root |<target-name> ]resizenone | both | horizontal |vertical | inheriticonauto | inheriturlPSEUDO-CLASS
+:active   an activated element
+:focus  an element while the element has focus
+
+:visited  a visited link
+:hover  an element when you mouse over it
+:link   an unvisited link
+:disabled  an element while the element is disabled
+
+:enabled  an element while the element is enabled
+:checked  an element (form element control) that is checked
+:selection  an element that is currently selected of highlighted  
+   by the user
+:lang   allows the author to specify a language to use in a 
+   speci˜ed element
+:nth-child(n) an element  that is the n-th sibling
+:nth-last child(n)  an element that is the n-th sibling counting  
+    from the last sibling
+:˜rst-child  an element that is the ˜rst sibling
+:last-child  an element that is the last sibling
+
+:only-child  an element that is the only child
+:nth-of-type(n)  an element that is the n-th sibling of its type
+:nth-last-of-type(n)  an element that is the n-th sibling of its type  
+    counting from the last sibling
+:last-of-type  an element that is the last sibling of its type
+:˜rst-of-type  an element that is the ˜rst sibling of its type
+:only-of-type an element that is the only of its type
+
+:empty  an element that has no children
+:root   root element within the document
+:not(x)  an element not represented by the argument 'x'
+:target  a target element as speci˜ed by a target in a URI
+PSEUDO-ELEMENT
+::˜rst-letter Adds special style to the ˜rst letter of a text
+
+::˜rst-line  Adds special style to the ˜rst line of a text
+
+::before  Inserts some content before an element
+::after  Inserts some content after an element
+ABSOLUTE MEASUREMENT
+%   percentage
+cm   centimeter
+
+in   inch
+mm    millimeter
+pc   pica (1p = 12 points)
+pt   point (1pt = 1/72 inch)
+RELATIVE MEASUREMENT
+ch  width of the "0" glyph found in the font for the font  
+  size used to render
+em  1em = current font size of current element
+ex  x-height of the element's font
+gd  the grid de˜ned by 'layout-grid'
+
+px  pixel of the viewing device
+
+rem  the font size of the root element
+vh  the viewport's height
+vw  the viewport's width
+vm  viewport's height or width, whichever is smaller of  
+  the two
+ANGLES
+deg  degrees
+grad  grads
+
+rad  radians
+turn  turns
+TIMEms  milli-seconds
+s  seconds
+FREQUENCY
+Hz  hertz
+
+kHz  kilo-hertz
+COLORS
+color name  red, blue, green, dark green
+
+rgb(x,y,z)   red = rgb(255,0,0)
+
+rgb(x%,y%,z%)  red = rgb(100%,0,0)
+rgba(x,y,z,alpha) red = rgba(255,0,0)
+#rrggbb   red = #ff0000 (or shorthand = #f00)
+    hsl(hue, saturation, lightness) 
+red=hsl   (0, 100%, 50%)
+˚avor   An accent color (typically chosen by the  
+    user) to customize the user interface of  
+    the user agent itself.
+currentColor  computed value of the 'currentColor' 
+    keyword is the computed value of the 
+    'color' property
+SELECTOR TYPES
+NameUniversalType
+GroupingClassIdDescendantChildAdjacent Sibling
+General SiblingAttributeInfoAny elementAny element of that type
+Multiple elements of different typesMultiple elements of different types when you don't want to affect all instances of that typeA single element type when you don't want to affect all instances of that typeAn element that is below (in the document tree) another element - no matter how many 
+levels belowAn element that is directly below (in the document tree) another elementAll elements that share the same parent and elements are in the same immediate sequenceAll elements that share the same parent and elements are in the same sequence 
+(not necessarily immediate)An element with that matches the attribute listedExample* { font: 10px Arial; }h1 { text-decoration: underline; }
+h1, h2, h3 { font-family: Verdana; }.sampleclass { text-decoration: underline; }#sampled { text-decoration: underline; }#gallery h1 { text-decoration: underline; }#title > p { font-weight: bold; }h1 + p { font-style: italic; }
+h1 ~ p { font-style: italic; }E[selected] - att whatever the valueE[att="val"] - att with a speci˜c valueE[rel~="next"] - att with a value is a whitespace separated list*[lang|="en"] - att value either being exactly "val" or beginning with "val" immediately followed by "-"
+E[att^="val"] - att value that begins with the pre˜x "val"
+E[att$="val"] - att vale that begins with the suf˜x "val"E[att*="val"] - att value contains at least one instance of the substring "val" 
